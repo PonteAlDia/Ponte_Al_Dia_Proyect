@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAbThvq9vPCtf8P2v4RHsD1al-sHhWdbKE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>870948591341</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.ponteAlDia</string>
+	<key>PROJECT_ID</key>
+	<string>pontealdia-91ccd</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pontealdia-91ccd.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:870948591341:ios:9dd03d654bb5860a369ee4</string>
+</dict>
+</plist>
