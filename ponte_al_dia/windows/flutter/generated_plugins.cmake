@@ -3,6 +3,10 @@
 #
 
 list(APPEND FLUTTER_PLUGIN_LIST
+<<<<<<< HEAD
+=======
+  firebase_auth
+>>>>>>> 02-backend-login
   firebase_core
 )
 
